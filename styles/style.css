@@ -6,7 +6,7 @@ body {
     width: 80%;
     max-width: 600px;
     text-align: center;
-    margin: 30px auto;
+    margin: 30px auto 10px auto;
 }
 
 .today_wheather {
@@ -55,4 +55,15 @@ body {
     font-weight: 100;
     text-align: left;
     margin-bottom: 2px;
+}
+
+.gitLink {
+    width: 80%;
+    max-width: 600px;
+    margin: 5px auto;
+}
+
+.gitLink a {
+    text-decoration: none;
+    font-size: 14px;
 }
