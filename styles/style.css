@@ -1,0 +1,58 @@
+body {
+    font-family: arial, sans-serif;
+}
+
+.wheather-box {
+    width: 80%;
+    max-width: 600px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.today_wheather {
+    text-align: left;
+}
+
+.temperature strong {
+    color: rgb(44, 43, 43);
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.temperature span {
+    position: relative;
+    top: -34px;
+}
+
+.city_info {
+    text-align: left;
+}
+
+.city_info h1 {
+    color: #7c7c7c;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.city_info p {
+    color: #7c7c7c;
+    font-size: 16px;
+    font-weight: 100;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.other_info {
+    text-align: right;
+}
+
+.other_info p {
+    color: #7c7c7c;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: left;
+    margin-bottom: 2px;
+}
